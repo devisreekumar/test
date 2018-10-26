@@ -1,6 +1,6 @@
 package com.nissan.training_core_java;
 ////////
- class Adder {ll
+ class Adder {kk
 	static int add(int a,int b) {
 		return a+b;
 	}
