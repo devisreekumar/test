@@ -1,5 +1,5 @@
 package com.nissan.training_core_java;
-/////
+////////
  class Adder {
 	static int add(int a,int b) {
 		return a+b;
